@@ -1,0 +1,119 @@
+/* 
+@author     M.Staerke
+@version    10.04.2018
+*/
+
+
+
+
+
+/* css in generell */
+
+.body {
+    font-family: 'Asap', sans-serif; 
+}
+
+
+.nav-list {
+    background-color:  cadetblue;   
+    color:  white;
+}
+
+
+.nav-item {    
+    color:  white;
+}
+
+
+.first-subtitle {
+    column-gap: 40px;
+    column-count: 2;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: turquoise;
+    column-rule: 4px solid turquoise;
+    column-width: 60px;
+}
+
+
+.second-subtitle {
+    column-gap: 40px;
+    column-count: 3;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: turquoise;
+    column-rule: 4px solid turquoise;
+    column-width: 100px;
+}
+
+
+
+
+/* CSS for Index */
+
+
+.menu-label {
+    background-color: grey;
+    text-decoration-color: aliceblue;
+    
+}
+
+
+.side-menu {
+
+    
+}
+
+
+.menu-list {
+    
+    
+    
+}
+
+
+
+.footer-container {
+    position: fixed;
+    padding: 10px;
+    
+    
+    text-align: center;
+    height: 10px;
+    background: blue;
+}
+
+.footer-section{
+    position: fixed;
+    padding: 10px;
+    
+    
+    text-align: center;
+    height: 10px;
+    background: blue;
+    
+    
+}
+
+
+
+/* CSS for Tutorial */
+
+.first-title-tutorial {
+    text-align: center;
+}
+
+
+.second-subtitle-tutorial {
+}
+
+
+
+/* CSS for Trainingsplan */
+
+
+
+
+
+
+/* CSS for Shop */

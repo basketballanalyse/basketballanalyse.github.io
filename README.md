@@ -1,1 +1,1 @@
-# basketballanalyse.github.io
+# basketballanalyse.de
