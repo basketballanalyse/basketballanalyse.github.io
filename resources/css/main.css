@@ -19,7 +19,10 @@ body {
 
 
 
-
+.navbar-menu {
+    background-color: lightgrey;
+    
+}
 
 .nav-list {
     background-color:  cadetblue;   
@@ -59,43 +62,50 @@ body {
 /* CSS for Index */
 
 
+
+.side-menu-layout {
+    display: grid;
+    float: right;
+    padding-left: 30px;
+}
+
 .menu-label {
-    background-color: grey;
-    text-decoration-color: aliceblue;
+    background-color: #003399;
+    color: aliceblue;
 }
-
-
-.side-menu {   
-}
-
 
 .menu-list {    
 }
 
 
+
 .footer {
-    background-color: royalblue;
-    
+    background-color: #003399;
     margin-top: 20px;
     padding-top: 0;
     padding-left: 0;
     padding-right: 0;
-    padding-bottom: 0;
+    padding-bottom: 30px;
+}
+
+.content {
+    color: white;
+}
+
+.footer-link {
+    color: floralwhite;
 }
 
 
 .columns-body {
     display: grid;
-    
+    float: left;
+    width: 75%;
 }
 
-.index-mainpicture {
-    height: 100%;
-    width: 100%;
-    
+.basketballkorb {
+    max-width: 70%;
 }
-
-
 
 
 
