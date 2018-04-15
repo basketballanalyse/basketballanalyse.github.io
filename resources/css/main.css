@@ -20,7 +20,7 @@ body {
 
 
 .navbar-menu {
-    background-color: lightgrey;
+    background-color: lightcyan;
     
 }
 
@@ -85,7 +85,7 @@ body {
     padding-top: 0;
     padding-left: 0;
     padding-right: 0;
-    padding-bottom: 30px;
+    padding-bottom: 0px;
 }
 
 .content {
