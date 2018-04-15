@@ -5,7 +5,9 @@
 
 
 
+
 /* CSS in generell */
+
 
 
 html {
@@ -18,17 +20,13 @@ body {
 }
 
 
-
-.navbar-menu {
-
-    
+.navbar-menu {    
 }
 
 .nav-list {
     background-color:  cadetblue;   
     color:  white;
 }
-
 
 .nav-item {    
     color:  white;
@@ -45,7 +43,6 @@ body {
     column-width: 60px;
 }
 
-
 .second-subtitle {
     column-gap: 40px;
     column-count: 3;
@@ -55,6 +52,7 @@ body {
     column-rule: 4px solid turquoise;
     column-width: 100px;
 }
+
 
 
 
@@ -81,14 +79,11 @@ body {
 
 .footer {
     background-color: #003399;
-    
     margin-top: 20px;
     padding-top: 0;
     padding-left: 0;
     padding-right: 0;
     padding-bottom: 0px;
-    
-    
 }
 
 .content {
@@ -112,19 +107,25 @@ body {
 
 
 
+
 /* CSS for Tutorial */
+
+
 
 .first-title-tutorial {
     text-align: center;
 }
-
 
 .second-subtitle-tutorial {
 }
 
 
 
+
+
+
 /* CSS for Trainingsplan */
+
 
 
 
