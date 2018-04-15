@@ -5,13 +5,20 @@
 
 
 
+/* CSS in generell */
 
 
-/* css in generell */
+html {
+    overflow: hidden;
+}
 
-.body {
+
+body {
     font-family: 'Asap', sans-serif; 
 }
+
+
+
 
 
 .nav-list {
@@ -55,45 +62,40 @@
 .menu-label {
     background-color: grey;
     text-decoration-color: aliceblue;
+}
+
+
+.side-menu {   
+}
+
+
+.menu-list {    
+}
+
+
+.footer {
+    background-color: royalblue;
+    
+    margin-top: 20px;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+
+
+.columns-body {
+    display: grid;
+    
+}
+
+.index-mainpicture {
+    height: 100%;
+    width: 100%;
     
 }
 
 
-.side-menu {
-
-    
-}
-
-
-.menu-list {
-    
-    
-    
-}
-
-
-
-.footer-container {
-    position: fixed;
-    padding: 10px;
-    
-    
-    text-align: center;
-    height: 10px;
-    background: blue;
-}
-
-.footer-section{
-    position: fixed;
-    padding: 10px;
-    
-    
-    text-align: center;
-    height: 10px;
-    background: blue;
-    
-    
-}
 
 
 
