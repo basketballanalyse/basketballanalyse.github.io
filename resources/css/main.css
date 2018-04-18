@@ -1,13 +1,12 @@
 /* 
 @author     M.Staerke
-@version    10.04.2018
+@version    19.04.2018
 */
 
 
 
 
 /* CSS in generell */
-
 
 
 html {
@@ -54,11 +53,13 @@ body {
 }
 
 
-
+.footer-container {
+    background-color: #003399;
+    min-height: calc(100vh - 40px);
+}
 
 
 /* CSS for Index */
-
 
 
 .side-menu-layout {
@@ -75,16 +76,6 @@ body {
 .menu-list {    
 }
 
-
-
-.footer {
-    background-color: #003399;
-    margin-top: 20px;
-    padding-top: 0;
-    padding-left: 0;
-    padding-right: 0;
-    padding-bottom: 0px;
-}
 
 .content {
     color: white;
@@ -111,7 +102,6 @@ body {
 /* CSS for Tutorial */
 
 
-
 .first-title-tutorial {
     text-align: center;
 }
@@ -133,3 +123,11 @@ body {
 
 
 /* CSS for Shop */
+
+
+
+
+
+/* CSS for Kontakt */
+
+
