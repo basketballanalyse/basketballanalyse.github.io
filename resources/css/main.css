@@ -1,6 +1,6 @@
 /* 
 @author     M.Staerke
-@version    19.04.2018
+@version    22.04.2018
 */
 
 
@@ -19,82 +19,56 @@ body {
 }
 
 
+a {
+    font-size: 20pt;
+    color: white;
+}
+
+p {
+    font-size: 20pt; 
+}
+
+blockquote {
+    font-size: 14pt;
+}
+
+
 .navbar-menu {    
-}
-
-.nav-list {
-    background-color:  cadetblue;   
-    color:  white;
-}
-
-.nav-item {    
-    color:  white;
-}
-
-
-.first-subtitle {
-    column-gap: 40px;
-    column-count: 2;
-    column-rule-style: solid;
-    column-rule-width: 2px;
-    column-rule-color: turquoise;
-    column-rule: 4px solid turquoise;
-    column-width: 60px;
-}
-
-.second-subtitle {
-    column-gap: 40px;
-    column-count: 3;
-    column-rule-style: solid;
-    column-rule-width: 2px;
-    column-rule-color: turquoise;
-    column-rule: 4px solid turquoise;
-    column-width: 100px;
-}
-
-
-.footer-container {
     background-color: #003399;
-    min-height: calc(100vh - 40px);
 }
+
+
+.navbar-item {    
+    color: #003399;
+}
+
+
+.hero-main {
+    float: left;
+}
+
+.newsfeed {
+    float: right;
+}
+
+
+
+
 
 
 /* CSS for Index */
 
-
-.side-menu-layout {
-    display: grid;
-    float: right;
-    padding-left: 30px;
-}
 
 .menu-label {
     background-color: #003399;
     color: aliceblue;
 }
 
-.menu-list {    
+
+.newsfeed {
+    width: 25%;
 }
 
-
-.content {
-    color: white;
-}
-
-.footer-link {
-    color: floralwhite;
-}
-
-
-.columns-body {
-    display: grid;
-    float: left;
-    width: 75%;
-}
-
-.basketballkorb {
-    max-width: 70%;
-}
 
 
 
@@ -102,29 +76,12 @@ body {
 /* CSS for Tutorial */
 
 
-.first-title-tutorial {
-    text-align: center;
-}
-
-.second-subtitle-tutorial {
-}
-
-
-
-
-
 
 /* CSS for Trainingsplan */
 
 
 
-
-
-
-
 /* CSS for Shop */
-
-
 
 
 
