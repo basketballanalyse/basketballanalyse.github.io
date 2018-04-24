@@ -10,12 +10,16 @@
 
 
 html {
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 
 body {
     font-family: 'Asap', sans-serif; 
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 400px;
 }
 
 
